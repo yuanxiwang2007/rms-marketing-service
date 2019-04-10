@@ -1,4 +1,4 @@
-package com.rms.marketing.config;
+package com.hwt.ris.marketing.conf;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

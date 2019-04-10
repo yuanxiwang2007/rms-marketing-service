@@ -1,3 +1,3 @@
 # Auto Configure
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.rms.marketing.config.DruidAutoConfiguration
+com.hwt.ris.marketing.conf.DruidAutoConfiguration
